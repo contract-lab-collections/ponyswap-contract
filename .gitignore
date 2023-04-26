@@ -1,0 +1,14 @@
+
+node_modules
+
+.env
+.vscode
+
+
+# Hardhat files
+cache
+artifacts
+.deps
+
+# pernal
+private
